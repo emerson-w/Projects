@@ -1,0 +1,1 @@
+The Baseball Analytics Team at Tufts competed in a hackathon hosted by the Cincinnati Reds, where we achieved 3rd place out of 50+ teams. This repository contains the code we used to research 1900+ pitchers across 2 seasons. Our final report, which is included in this repository, was presented over Zoom to Reds Baseball Operations executives.
